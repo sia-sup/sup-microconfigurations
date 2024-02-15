@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to the SupDev accounts related to PROD APIs"
   contactDetails:
     name: "Jennifer Lauren - Product Owner"
-    email: "c8e2b11d0c1aeadcfb9611517643fbb6809df48a23843ce751159ca9da0eeccf7ee6daeac019ec42bd9bddca1131e679"
+    email: "{cipher}c8e2b11d0c1aeadcfb9611517643fbb6809df48a23843ce751159ca9da0eeccf7ee6daeac019ec42bd9bddca1131e679"
   onCallSupport:
     - (245) 67080034
     - (245) 67080035
