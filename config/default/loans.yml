@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to the SupDev loans related to local APIs"
+  contactDetails:
+    name: "Supriya - Backend Lead"
+    email: "supA@sup.dev"
+  onCallSupport:
+    - (+91) 8007546098
+    - (+91) 8142060028
