@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the SupDev accounts related to QA APIs"
+  contactDetails:
+    name: "Jack Henry - Quality Assurance Lead"
+    email: "jackHenry@sup.dev"
+  onCallSupport:
+    - (666) 43900034
+    - (666) 43900033

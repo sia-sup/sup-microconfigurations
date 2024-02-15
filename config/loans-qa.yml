@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+loans:
+  message: "Welcome to the SupDev loans related to QA APIs"
+  contactDetails:
+    name: "Jack Henry - Quality Assurance Lead"
+    email: "jackHenry@sup.dev"
+  onCallSupport:
+    - (611) 43900034
+    - (611) 43900033
