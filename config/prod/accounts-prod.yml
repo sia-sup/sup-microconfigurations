@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the SupDev accounts related to PROD APIs"
+  contactDetails:
+    name: "Jennifer Lauren - Product Owner"
+    email: "jenniferL@sup.dev"
+  onCallSupport:
+    - (245) 67080034
+    - (245) 67080035
