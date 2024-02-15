@@ -2,7 +2,7 @@ build:
   version: "2.1.0"
 
 cards:
-  message: "Welcome to the SupDev cards related to PROD APIs"
+  message: "Welcome to the SupDev cards related to PRODUCTION APIs"
   contactDetails:
     name: "Jennifer Lauren - Product Owner"
     email: "jenniferL@sup.dev"
