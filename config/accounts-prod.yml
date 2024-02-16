@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the SupDev accounts related to PRODUCTION APIs"
+  message: "Welcome to the SupDev accounts related to prod(s) APIs"
   contactDetails:
     name: "Jennifer Lauren - Product Owner"
     email: "{cipher}c8e2b11d0c1aeadcfb9611517643fbb6809df48a23843ce751159ca9da0eeccf7ee6daeac019ec42bd9bddca1131e679"
